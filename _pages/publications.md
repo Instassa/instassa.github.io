@@ -14,9 +14,7 @@ redirect_from:
 
 
 **Survey: Leakage and privacy at inference time**
-
 _arXiv preprint, 2021_
-
 [**[PDF]**](https://arxiv.org/abs/2107.01614)  [**[bibtex]**](https://dblp.uni-trier.de/rec/journals/corr/abs-2107-01614.html?view=bibtex)
 
 
