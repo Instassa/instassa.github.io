@@ -9,8 +9,8 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-_Curriculum Vitae_
-======
+<!-- _Curriculum Vitae_
+====== -->
 
 ![](/images/CV.png)
 
