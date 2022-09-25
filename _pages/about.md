@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Currently I am a Postdoctoral Researcher in Behavioural Computing Group at [Meta Reality Labs](https://about.meta.com/realitylabs). My domain is human apparent emotional reaction recognition from video.
+I am a Machine Learning Scientist. Currently I am working as a Postdoctoral Researcher in Behavioural Computing Group at [Meta Reality Labs](https://about.meta.com/realitylabs), specialising in human apparent emotional reaction recognition from video.
 
-My preivous research experience lies mainly in Generative Adversarial Networks with a variety of applications from Robot Control policies to underwater sonar data simulation. Additionally I have done some work on [Privacy of ML models at Inference time](https://arxiv.org/abs/2107.01614).  
+My preivous academic and commercial research experience lies in Generative Adversarial Networks with a variety of applications from Robot Control policies to underwater sonar data simulation. Additionally, I have done some work on Privacy of ML models at Inference time, both from attack and from defence point of view.  
 
 I received my PhD in 2020 from the [School of Informatics](https://www.ed.ac.uk/informatics), University of Edinburgh, under the supervision of [Prof. Timothy Hospedales](https://homepages.inf.ed.ac.uk/thospeda/), with a thesis titled [Generative Neural Data Synthesis for Autonomous Systems](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.838454). I also have an MSc in Computational Statistis and Machine Learning from University College London, and BSc in Mathematics with Statistics from Royal Holloway Unicversity of London. 
+
+
 
 <!-- <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
