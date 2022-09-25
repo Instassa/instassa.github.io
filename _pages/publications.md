@@ -39,7 +39,7 @@ _IEEE Transactions on Cognitive and Developmental Systems, 2020_\
 
 
 **Full-Scale Continuous Synthetic Sonar Data Generation with Markov Conditional Generative Adversarial Networks**\
-_IEEE International Conference on Robotics and Automation, 2019_\
+_IEEE International Conference on Robotics and Automation (ICRA), 2019_\
 [**[PDF]**](https://ieeexplore.ieee.org/abstract/document/9197353)  [**[bibtex]**](https://ieeexplore.ieee.org/abstract/document/9197353) [**[video]**](https://youtu.be/tkF4wNfjzBI)
 
 
