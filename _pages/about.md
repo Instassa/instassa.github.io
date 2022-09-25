@@ -16,7 +16,9 @@ I received my PhD in 2020 from the [School of Informatics](https://www.ed.ac.uk/
 
 Some of my projects
 =======
-![](https://youtu.be/tkF4wNfjzBI)![](https://www.youtube.com/watch?v=fTaZPOXtVXI&t=15s)![](https://www.youtube.com/watch?v=N32WzBEAIFM&t=13s)
+[![Markov-Conditional high resolution image generation (for Seebyte Ltd)](https://i9.ytimg.com/vi/fTaZPOXtVXI/mq1.jpg?sqp=CIT9wZkG&rs=AOn4CLBhU6relydHP4s_VDweBi-1Oi7qOg)](https://youtu.be/fTaZPOXtVXI)
+
+<!-- ![](https://youtu.be/tkF4wNfjzBI)![](https://www.youtube.com/watch?v=fTaZPOXtVXI&t=15s)![](https://www.youtube.com/watch?v=N32WzBEAIFM&t=13s) -->
 
 <!-- <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
