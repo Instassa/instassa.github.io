@@ -14,9 +14,11 @@ My preivous academic and commercial research experience lies in Generative Adver
 
 I received my PhD in 2020 from the [School of Informatics](https://www.ed.ac.uk/informatics), University of Edinburgh, under the supervision of [Prof. Timothy Hospedales](https://homepages.inf.ed.ac.uk/thospeda/), with a thesis titled [Generative Neural Data Synthesis for Autonomous Systems](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.838454). I also have an MSc in Computational Statistis and Machine Learning from University College London, and BSc in Mathematics with Statistics from Royal Holloway Unicversity of London. 
 
-Some of my projects
+Summaries for some of my projects
 =======
-[![Markov-Conditional high resolution image generation (for Seebyte Ltd)](https://i9.ytimg.com/vi/fTaZPOXtVXI/mq1.jpg?sqp=CIT9wZkG&rs=AOn4CLBhU6relydHP4s_VDweBi-1Oi7qOg)](https://youtu.be/fTaZPOXtVXI)
+[![MC-pix2pix](https://i9.ytimg.com/vi/tkF4wNfjzBI/mq2.jpg?sqp=CLD_wZkG&rs=AOn4CLCv_v2voxWUEgU13D74FN50C7cpPw)](https://youtu.be/tkF4wNfjzBI)
+[![R2D2](https://i9.ytimg.com/vi/fTaZPOXtVXI/mq1.jpg?sqp=CIT9wZkG&rs=AOn4CLBhU6relydHP4s_VDweBi-1Oi7qOg)](https://youtu.be/fTaZPOXtVXI)
+[![SIDE-GAN](https://i9.ytimg.com/vi_webp/N32WzBEAIFM/mqdefault.webp?v=5f575875&sqp=CIiEwpkG&rs=AOn4CLCToHE60pTm9gqdrl9Zv4k14xsrXg)](https://youtu.be/N32WzBEAIFM)
 
 <!-- ![](https://youtu.be/tkF4wNfjzBI)![](https://www.youtube.com/watch?v=fTaZPOXtVXI&t=15s)![](https://www.youtube.com/watch?v=N32WzBEAIFM&t=13s) -->
 
