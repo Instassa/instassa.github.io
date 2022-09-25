@@ -29,7 +29,7 @@ _Thesis, The University of Edinburgh, 2020_\
 
 
 **Adversarial Generation of Informative Trajectories for Dynamics System Identification**\
-_arXiv preprint, 2020_\
+_IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020_\
 [**[PDF]**](https://ieeexplore.ieee.org/abstract/document/9340801)  [**[bibtex]**](https://ieeexplore.ieee.org/abstract/document/9340801)  [**[code]**](https://github.com/Instassa/SIDE-GAN-Pytorch) [**[video]**](https://youtu.be/N32WzBEAIFM)
 
 
