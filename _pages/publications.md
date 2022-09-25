@@ -8,9 +8,9 @@ redirect_from:
   - /publications.html
 ---
 
-{% if author.googlescholar %}
+<!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+{% endif %} -->
 
 
 **Survey: Leakage and privacy at inference time**
@@ -60,6 +60,9 @@ _IEEE International Conference on Robotics and Automation, 2019_
 _IEEE International Conference on Development and Learning and Epigenetic Robotics (ICDL-EpiRob), 2019_
 
 [**[PDF]**](https://ieeexplore.ieee.org/document/8850727)  [**[bibtex]**](https://ieeexplore.ieee.org/document/8850727) [**[code]**](https://github.com/Instassa/DREAM-DCGAN-for-Baxter-unconditional-trajectories)
+
+
+
 
 
 Please check [Google Scholar](https://scholar.google.com/citations?hl=en&user=dQDRtY0AAAAJ&view_op=list_works&sortby=pubdate) for more detail.
