@@ -19,7 +19,7 @@ _arXiv preprint, 2021_ \
 
 
 **Unlimited Resolution Image Generation with R2D2-GANs**\
-_Global Oceans 2020: Singapore – U.S. Gulf Coast, 2020_\
+_IEEE Global Oceans 2020: Singapore – U.S. Gulf Coast, 2020_\
 [**[PDF]**](https://ieeexplore.ieee.org/abstract/document/9389260) [**[video]**](https://youtu.be/fTaZPOXtVXI)
 
 
