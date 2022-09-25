@@ -17,7 +17,7 @@ I received my PhD in 2020 from the [School of Informatics](https://www.ed.ac.uk/
 
 
 
-Video-summaries of some of my projects
+Video-summaries of some of my projects:
 -------
 
 [<img src="https://i9.ytimg.com/vi/tkF4wNfjzBI/mq2.jpg?sqp=CLD_wZkG&rs=AOn4CLCv_v2voxWUEgU13D74FN50C7cpPw" width="238"/>](https://youtu.be/tkF4wNfjzBI)
