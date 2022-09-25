@@ -14,7 +14,9 @@ My preivous academic and commercial research experience lies in Generative Adver
 
 I received my PhD in 2020 from the [School of Informatics](https://www.ed.ac.uk/informatics), University of Edinburgh, under the supervision of [Prof. Timothy Hospedales](https://homepages.inf.ed.ac.uk/thospeda/), with a thesis titled [Generative Neural Data Synthesis for Autonomous Systems](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.838454). I also have an MSc in Computational Statistis and Machine Learning from University College London, and BSc in Mathematics with Statistics from Royal Holloway Unicversity of London. 
 
-
+Some of my projects
+=======
+[](https://youtu.be/tkF4wNfjzBI)[](https://www.youtube.com/watch?v=fTaZPOXtVXI&t=15s)[](https://www.youtube.com/watch?v=N32WzBEAIFM&t=13s)
 
 <!-- <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
