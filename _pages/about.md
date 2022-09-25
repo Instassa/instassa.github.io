@@ -17,7 +17,7 @@ I received my PhD in 2020 from the [School of Informatics](https://www.ed.ac.uk/
 Summaries for some of my projects
 =======
 
-<img src="https://i9.ytimg.com/vi/tkF4wNfjzBI/mq2.jpg?sqp=CLD_wZkG&rs=AOn4CLCv_v2voxWUEgU13D74FN50C7cpPw" width="200" height="100" />
+<img src="https://i9.ytimg.com/vi/tkF4wNfjzBI/mq2.jpg?sqp=CLD_wZkG&rs=AOn4CLCv_v2voxWUEgU13D74FN50C7cpPw" width="200"/>
 
 [![MC-pix2pix](https://i9.ytimg.com/vi/tkF4wNfjzBI/mq2.jpg?sqp=CLD_wZkG&rs=AOn4CLCv_v2voxWUEgU13D74FN50C7cpPw)](https://youtu.be/tkF4wNfjzBI) [![R2D2](https://i9.ytimg.com/vi/fTaZPOXtVXI/mq1.jpg?sqp=CIT9wZkG&rs=AOn4CLBhU6relydHP4s_VDweBi-1Oi7qOg)](https://youtu.be/fTaZPOXtVXI) [![SIDE-GAN](https://i9.ytimg.com/vi_webp/N32WzBEAIFM/mqdefault.webp?v=5f575875&sqp=CIiEwpkG&rs=AOn4CLCToHE60pTm9gqdrl9Zv4k14xsrXg)](https://youtu.be/N32WzBEAIFM)
 
