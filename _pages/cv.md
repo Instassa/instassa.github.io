@@ -12,7 +12,9 @@ redirect_from:
 <!-- _Curriculum Vitae_
 ====== -->
 
-![](/images/CV.png)
+
+<img src="/images/CV.png" width="700"/>
+<!-- ![](/images/CV.png) -->
 
 
 <!-- * B.S. in GitHub, GitHub University, 2012
